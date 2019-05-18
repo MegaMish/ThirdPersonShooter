@@ -1,7 +1,4 @@
-# ThirdPersonProject
-"# 3DShooter" 
-"# 3DShooter" 
-"# ThirdPersonShooter" 
-"# ThirdPersonShooter" 
-# ThirdPersonShooter
+git add .
+git commit -m "my message here"
+git push
 "# ThirdPersonShooter" 
